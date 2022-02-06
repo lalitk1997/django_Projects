@@ -1,0 +1,14 @@
+/* tag */
+li{
+  color: blue;
+}
+
+/* class */
+.topitems{
+  color: green;
+}
+
+/* id */
+#two{
+  color: yellow;
+}
