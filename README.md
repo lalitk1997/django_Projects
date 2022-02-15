@@ -1,7 +1,7 @@
-# django_Projects
+# django
 Doing Udemy Course and practising problems for learning front-end technologies and Django @ back-end.
 
-Slides
+# PPT
 https://docs.google.com/presentation/d/1dOryUyxr-DrFrkNWe0fzVTD9wdwfM8rYkfLv_JkwIiY/edit?usp=sharing
 
 https://docs.google.com/presentation/d/1bYM1WFXtXLjGQoGKUyZGdsResp6FAi-LLyGjYEJzx58/edit?usp=sharing
